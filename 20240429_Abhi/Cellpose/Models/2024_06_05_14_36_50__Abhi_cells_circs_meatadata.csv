@@ -1,0 +1,2 @@
+,model_name,Number of Training Images,Number of Test Images,Number of Epochs,Learning Rate for training,Weight Decay for training,Training data split,Validation data split,Number of images per epoch,Model from the zoo,Model Accuracy
+0,2024_06_05_14_36_50__Abhi_cells_circs,73,19,100,0.1,0.0001,0.8,0.19999999999999996,8,cyto,0.7492223
