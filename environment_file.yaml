@@ -149,6 +149,7 @@ dependencies:
       - ome-types==0.5.2
       - ome-zarr==0.9.0
       - opencv-python-headless==4.10.0.84
+      - openpyxl==3.1.5
       - overrides==7.7.0
       - packaging==24.1
       - pandas==2.2.3
