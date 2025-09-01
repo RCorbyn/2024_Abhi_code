@@ -243,4 +243,4 @@ dependencies:
       - zarr==2.15.0
       - zict==3.0.0
       - zipp==3.20.2
-
+prefix: C:\Users\RCORBYN\Anaconda3\envs\abhi_env
